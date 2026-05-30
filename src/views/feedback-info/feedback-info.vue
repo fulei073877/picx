@@ -25,10 +25,15 @@
       </el-link>
     </div>
 
-    <div class="help-info-item" style="margin-bottom: 2rem">🎁 {{ $t('feedback.text_3') }}</div>
+    <div class="help-info-item">
+      📚 {{ $t('feedback.text_3') }}：
+      <el-link type="primary" href="https://blog.870507.xyz" target="_blank">
+        https://blog.870507.xyz
+      </el-link>
+    </div>
 
     <div class="help-info-item img">
-      <el-image style="width: 300rem" src="https://xpoet.cn/images/admire-code-wechat.webp" />
+      <el-image style="width: 300rem" src="https://dh.073877.xyz:88/uploads/2026/5/26/5835cc31d4cf3cf8815f1ae7e2ba746c.png" />
     </div>
 
     <div class="help-info-item red-text">
