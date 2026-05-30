@@ -28,8 +28,8 @@
     "theme": "Theme",
     "announcement": {
       "text_1": "Website Announcement",
-      "text_2": "1. PicX v3.0 further simplifies user operations and uniformly uses built-in repository and branch",
-      "text_3": "2. If you need to continue to use customized repository and branch, please use",
+      "text_2": "1. Lei Ji Micro·Graphics Bed is built and deployed based on PicX v3.0 to further simplify user operations and uniformly use built-in warehouses and branches.",
+      "text_3": "2. If you need to continue using custom warehouses and branches, please jump to using the ones deployed by the original author.",
       "text_4": "Don't remind again"
     }
   },
@@ -224,10 +224,10 @@
     "add_watermark": "Add Watermark"
   },
   "feedback": {
-    "text_1": "PicX is an image hosting tool developed based on the GitHub API, providing services for image upload hosting, generating image links, and common image tools.",
+    "text_1": "Lei Ji Micro Picture Bed is built based on PicX v3.0 deployment. It is a picture bed tool developed based on the GitHub API. It provides image upload and hosting, image link generation and common image toolbox services. ",
     "text_2": "It is recommended to add this site to your browser bookmarks for convenient use in the future.",
-    "text_3": "If PicX is helpful to you, feel free to appreciate the author and support open source.",
-    "text_4": "Disclaimer: Do not use PicX to upload images that violate local laws. The author is not responsible for any consequences."
+    "text_3": "Lei Ji micro Blog",
+    "text_4": "Users who use Lei Ji Weibo to transmit, store and publish pictures on the bed must strictly abide by relevant national laws, regulations and platform specifications, and are strictly prohibited from uploading any illegal and illegal content such as political, *graphic, violent, infringing, and prohibited content. All legal responsibilities and economic consequences such as administrative penalties, civil compensation, and legal accountability caused by users uploading illegal pictures by themselves shall be borne independently by the uploading user himself. The deployer of this picture bed and the original author of the program shall not bear any joint and several liability."
   },
   "region": {
     "CN": "Mainland China",
