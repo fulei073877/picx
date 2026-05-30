@@ -3,9 +3,9 @@
     <div class="header-left border-box">
       <div class="brand-box">
         <div class="logo" @click="router.push('/')">
-          <img src="../../assets/logo.png" alt="PicX" />
+          <img src="https://dh.073877.xyz:88/uploads/2026/5/25/645d21e8c4c4409fb44de9c5f3a7c22c.png" alt="磊记拾微" />
         </div>
-        <div class="title" @click="router.push('/')">PicX</div>
+        <div class="title" @click="router.push('/')">磊记拾微</div>
       </div>
     </div>
 
