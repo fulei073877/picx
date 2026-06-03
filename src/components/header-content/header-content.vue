@@ -5,7 +5,7 @@
         <div class="logo" @click="router.push('/')">
           <img src="https://dh.073877.xyz:88/uploads/2026/6/3/a677911a2e410179959cdc821deefbf0.png" alt="磊记拾微" />
         </div>
-        <div class="title" @click="router.push('/')">磊记拾微</div>
+        <div class="title" @click="router.push('/')">记拾微</div>
       </div>
     </div>
 
