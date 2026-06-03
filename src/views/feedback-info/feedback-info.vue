@@ -33,7 +33,7 @@
     </div>
 
     <div class="help-info-item img">
-      <el-image style="width: 300rem" src="https://dh.073877.xyz:88/uploads/2026/6/3/a677911a2e410179959cdc821deefbf0.png" />
+      <el-image style="width: 300rem" src="https://dh.073877.xyz:88/uploads/2026/6/3/d69c5bde50b5f83c9dc512a0fbd28e89.png" />
     </div>
 
     <div class="help-info-item red-text">
