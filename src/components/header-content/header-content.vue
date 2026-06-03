@@ -3,7 +3,7 @@
     <div class="header-left border-box">
       <div class="brand-box">
         <div class="logo" @click="router.push('/')">
-          <img src="https://dh.073877.xyz:88/uploads/2026/5/26/5835cc31d4cf3cf8815f1ae7e2ba746c.png" alt="磊记拾微" />
+          <img src="https://dh.073877.xyz:88/uploads/2026/6/3/d69c5bde50b5f83c9dc512a0fbd28e89.png" alt=" " />
         </div>
         <div class="title" @click="router.push('/')">磊记拾微</div>
       </div>
